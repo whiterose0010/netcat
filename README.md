@@ -2,6 +2,7 @@
 repositori ini berisi kode netcat yang dibuat menggunakan python  
 fungsi :  
 - melakukan koneksi client - server pada satu jaringan yang sama
+- kemampuan untuk melakukan echo pada server
   
 cara penggunaan : 
 - atur apakah program akan difungsikan sebagai server atau client
