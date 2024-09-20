@@ -1,6 +1,5 @@
 import socket
 import threading
-import sys
 
 def handle_client(client_socket):
     with client_socket:
